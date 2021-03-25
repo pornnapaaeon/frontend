@@ -11,7 +11,7 @@ const AdminSidebar = () => {
           className="brand-image img-circle elevation-3"
           style={{ opacity: ".8" }}
         />
-        <span className="brand-text font-weight-light">AdminLTE 3</span>
+        <span className="brand-text font-weight-light">AdminLTE 3 pornnapa</span>
       </a>
       {/* Sidebar */}
       <div className="sidebar">
