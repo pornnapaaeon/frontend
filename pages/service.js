@@ -37,33 +37,3 @@ export default function Home() {
     </div>
   )
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<AdminFooter />
-    </div>
-  )
-}
