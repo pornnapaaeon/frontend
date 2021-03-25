@@ -66,22 +66,22 @@ const AdminSidebar = () => {
               </a>
               <ul className="nav nav-treeview">
                 <li className="nav-item">
-                  <Link href="/menu"><a className="nav-link">
+                  <Link href="/index"><a className="nav-link">
                     <i className="far fa-circle nav-icon" />
-                    <p>เมนู</p>
+                    <p>หน้าแรก</p>
                   </a>
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <a href="./service" className="nav-link">
+                  <a href="./menu" className="nav-link">
                     <i className="far fa-circle nav-icon" />
-                    <p>เกี่ยวกับ</p>
+                    <p>เมนู</p>
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a href="#" className="nav-link active">
+                  <a href="./service" className="nav-link active">
                     <i className="far fa-circle nav-icon" />
-                    <p>ออกจากระบบ</p>
+                    <p>เกี่ยวกับ</p>
                   </a>
                 </li>
               </ul>
