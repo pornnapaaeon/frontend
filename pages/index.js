@@ -20,7 +20,7 @@ export default function Home() {
     <div className="container-fluid">
       <div className="row mb-2">
         <div className="col-sm-6">
-          <h1 className="m-0">Home</h1>
+          <h1 className="m-0">หน้าแรก</h1>
         </div>{/* /.col */}
         <div className="col-sm-6">
           <ol className="breadcrumb float-sm-right">
@@ -31,8 +31,6 @@ export default function Home() {
       </div>{/* /.row */}
     </div>{/* /.container-fluid */}
   </div>
-
-  
 </div>
 
 <AdminFooter />
