@@ -7,13 +7,7 @@ export default function Home() {
   <div>
     <AdminHeader />
     <AdminSiderbar />
-{/*     <div className="content-wrapper text-center">
-    <h1>Hello world</h1>
-    <br />
-    <h1>My name is</h1>
-    <br />
-    <h2>worachet raphukhiew</h2>
-    </div> */}
+
 <div className="content-wrapper">
   {/* Content Header (Page header) */}
   <div className="content-header">
@@ -31,42 +25,15 @@ export default function Home() {
       </div>{/* /.row */}
     </div>{/* /.container-fluid */}
   </div>
+</div>
 
-
-
-{/* /.content */}
 <div className="container-fluid">
 
 
-
-<form action="/action_page.php">
-  <div className="form-group">
-    <label htmlFor="email">Email address:</label>
-    <input type="email" className="form-control" id="email" />
-  </div>
-  <div className="form-group">
-    <label htmlFor="pwd">Password:</label>
-    <input type="password" className="form-control" id="pwd" />
-  </div>
-  <div className="checkbox">
-    <label><input type="checkbox" /> Remember me</label>
-  </div>
-  <button type="submit" className="btn btn-default">Submit</button>
-</form>
-
-
-
-
-
-
-    
-
+    rio4
 </div>
 
 
-
-
-</div>
 
 <AdminFooter />
     </div>
