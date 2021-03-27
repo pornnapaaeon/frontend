@@ -102,6 +102,12 @@ const AdminSidebar = () => {
                     <p>ลบรายชื่อ</p>
                   </a>
                 </li>
+                <li className="nav-item">
+                  <a href="/list" className="nav-link active">
+                    <i className="far fa-circle nav-icon" />
+                    <p>list</p>
+                  </a>
+                </li>
               </ul>
             </li>
            
