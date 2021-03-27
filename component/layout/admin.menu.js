@@ -85,19 +85,19 @@ const AdminSidebar = () => {
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a href="/" className="nav-link active">
+                  <a href="/add" className="nav-link active">
                     <i className="far fa-circle nav-icon" />
                     <p>เพิ่มรายชื่อ</p>
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a href="/" className="nav-link active">
+                  <a href="/update" className="nav-link active">
                     <i className="far fa-circle nav-icon" />
                     <p>แก้ไขรายชื่อ</p>
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a href="/" className="nav-link active">
+                  <a href="/delete" className="nav-link active">
                     <i className="far fa-circle nav-icon" />
                     <p>ลบรายชื่อ</p>
                   </a>
