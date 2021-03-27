@@ -33,6 +33,18 @@ export default function Home() {
   </div>
 </div>
 
+<div className="container-fluid">
+<a> from add</a>
+
+</div>
+
+
+
+
+
+
+
+
 <AdminFooter />
     </div>
   )
