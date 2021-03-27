@@ -7,7 +7,13 @@ export default function Home() {
   <div>
     <AdminHeader />
     <AdminSiderbar />
-
+{/*     <div className="content-wrapper text-center">
+    <h1>Hello world</h1>
+    <br />
+    <h1>My name is</h1>
+    <br />
+    <h2>worachet raphukhiew</h2>
+    </div> */}
 <div className="content-wrapper">
   {/* Content Header (Page header) */}
   <div className="content-header">
@@ -25,21 +31,9 @@ export default function Home() {
       </div>{/* /.row */}
     </div>{/* /.container-fluid */}
   </div>
-
-  <div className="container-fluid">
-
-      <h1>pornnapa</h1>
-  </div>
-
-
-
-
-
-
-
-
-</div>{/* /.content-wrapper */}
+</div>
 
 <AdminFooter />
     </div>
+  )
 }
