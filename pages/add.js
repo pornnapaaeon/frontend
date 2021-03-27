@@ -35,56 +35,25 @@ export default function Home() {
 
 
 {/* /.content */}
-<div className="container-fluid">
-
-
-<form>
-  <div className="form-row">
-    <div className="col-md-4 mb-3">
-      <label htmlFor="validationServer01">First name</label>
-      <input type="text" className="form-control is-valid" id="validationServer01" placeholder="First name" defaultValue="Mark" required />
-      <div className="valid-feedback">
-        Looks good!
-      </div>
+<div classname="container-fluid">
+  <form>
+    <div classname="form-group">
+      <label htmlfor="exampleInputEmail1">Email address</label>
+      <input type="email" classname="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
+      <small id="emailHelp" classname="form-text text-muted">We'll never share your email with anyone else.</small>
     </div>
-    <div className="col-md-4 mb-3">
-      <label htmlFor="validationServer02">Last name</label>
-      <input type="text" className="form-control is-valid" id="validationServer02" placeholder="Last name" defaultValue="Otto" required />
-      <div className="valid-feedback">
-        Looks good!
-      </div>
+    <div classname="form-group">
+      <label htmlfor="exampleInputPassword1">Password</label>
+      <input type="password" classname="form-control" id="exampleInputPassword1" placeholder="Password" />
     </div>
-    <div className="col-md-4 mb-3">
-      <label htmlFor="validationServerUsername">Username</label>
-      <div className="input-group">
-        <div className="input-group-prepend">
-          <span className="input-group-text" id="inputGroupPrepend3">@</span>
-        </div>
-        <input type="text" className="form-control is-invalid" id="validationServerUsername" placeholder="Username" aria-describedby="inputGroupPrepend3" required />
-        <div className="invalid-feedback">
-          Please choose a username.
-        </div>
-      </div>
+    <div classname="form-group form-check">
+      <input type="checkbox" classname="form-check-input" id="exampleCheck1" />
+      <label classname="form-check-label" htmlfor="exampleCheck1">Check me out</label>
     </div>
-    <div className="col-md-4 mb-3">
-      <label htmlFor="validationServer01">Password</label>
-      <input type="text" className="form-control is-valid" id="validationServer01" placeholder="password" defaultValue="Mark" required />
-      <div className="valid-feedback">
-        Looks good!
-      </div>
-    </div>
-  </div>
-  <button className="btn btn-primary" type="submit">Submit</button>
-</form>
-
-
-
-
-
-
-    
-
+    <button type="submit" classname="btn btn-primary">Submit</button>
+  </form>
 </div>
+
 
 
 
