@@ -20,7 +20,7 @@ export default function Home() {
     <div className="container-fluid">
       <div className="row mb-2">
         <div className="col-sm-6">
-          <h1 className="m-0">ADD</h1>
+          <h1 className="m-0">ADD from</h1>
         </div>{/* /.col */}
         <div className="col-sm-6">
           <ol className="breadcrumb float-sm-right">
@@ -30,16 +30,29 @@ export default function Home() {
         </div>{/* /.col */}
       </div>{/* /.row */}
     </div>{/* /.container-fluid */}
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md">
+                <a>pornnapa</a>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
   </div>
 </div>
-
-<div className="container-fluid">
-<a> from add</a>
-
-</div>
-
-
-
 
 
 
