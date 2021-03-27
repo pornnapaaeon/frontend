@@ -25,16 +25,21 @@ export default function Home() {
       </div>{/* /.row */}
     </div>{/* /.container-fluid */}
   </div>
-</div>
 
-<div className="container-fluid">
+  <div className="container-fluid">
 
-    <a>pormmapa</a>
-</div>
+      <h1>pornnapa</h1>
+  </div>
 
 
+
+
+
+
+
+
+</div>{/* /.content-wrapper */}
 
 <AdminFooter />
     </div>
-  )
 }
