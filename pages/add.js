@@ -31,6 +31,8 @@ export default function Home() {
       </div>{/* /.row */}
     </div>{/* /.container-fluid */}
 
+
+
     <div class="container-fluid">
         <div class="row">
             <div class="col-md">
